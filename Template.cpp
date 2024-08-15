@@ -9,7 +9,7 @@ using namespace std;
 #endif
 #define endl '\n'
 #define int long long        
-const long long mod = 998244353, Mxn = 1e5 + 5, INF = 1e18;
+const long long mod = 1e9 + 7, Mxn = 1e5 + 5, INF = 1e18;
 void solve()
 {
         
